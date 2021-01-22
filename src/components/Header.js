@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import styled from 'styled-components'
 
 export default function Header () {
@@ -8,7 +8,7 @@ export default function Header () {
 }
 
 const StyledHeader = styled.h1`
-    // color: red;
+    // color: #01aec6;
     // border: solid 1px red;
     margin: 10%;
 `;
